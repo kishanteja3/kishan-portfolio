@@ -14,23 +14,6 @@ export default function Home() {
       <p style={{ fontSize: "18px", color: "#555" }}>
         Power BI & Data Analyst
       </p>
-  <a
-  href="/Kishan_Teja_Resume.pdf"
-  download
-  style={{
-    display: "inline-block",
-    marginTop: "20px",
-    padding: "12px 20px",
-    backgroundColor: "#2563EB",
-    color: "white",
-    textDecoration: "none",
-    borderRadius: "6px",
-    fontWeight: "bold"
-  }}
->
-  Download Resume
-</a>
-
 
       <hr style={{ margin: "30px 0" }} />
 
